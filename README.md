@@ -4,11 +4,15 @@ Project Overview:
 
 A fully functional tour booking website for Ethiopian travel destinations, built with a combination of frontend and backend technologies.
 
+
+
 Quick Links:
 
-GitHub Repository: [https://github.com/Tekalignewoldemariam/discover-ethiopia-tour-
-
-website(https://github.com/Tekalignewoldemariam/discover-ethiopia-tour-website)
+View it live at:
+https://github.com/Tekalignewoldemariam-dev/discover-ethiopia-tour-website
+ GitHub Repository name is:
+discover-ethiopia-tour-website
+ URL: https://github.com/Tekalignewoldemariam-dev/discover-ethiopia-tour-website
 
 Important Note: This is a dynamic PHP/MySQL website. GitHub Pages only hosts static sites, so the live demo will be  hosted on InfinityFree (free PHP hosting).
 
@@ -268,7 +272,9 @@ Author:
 
 Tekalign Woldemariam
 
-GitHub: @Tekalignewoldemariam
+https://github.com/Tekalignewoldemariam-dev/discover-ethiopia-tour-website
+
+GitHub: @Tekalignewoldemariam-dev
 
 Project: discover-ethiopia-tour-website
 
@@ -279,4 +285,6 @@ Project: discover-ethiopia-tour-website
 
 
 Project Type: Full Stack Web Application (HTML/CSS/JavaScript/PHP/MySQL)
+
+
 
